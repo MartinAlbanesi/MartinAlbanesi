@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinalbanesi&label=Profile%20views&color=0e75b6&style=flat" alt="martinalbanesi" /> </p>
 
-- 🌱 I’m currently learning **Kotlin and Java**
+- 🌱 I’m currently learning **Kotlin and Java for Android Development**
 
 - 📫 How to reach me **martinalbanesi89@gmail.com**
 
