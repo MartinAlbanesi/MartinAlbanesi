@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinalbanesi&label=Profile%20views&color=0e75b6&style=flat" alt="martinalbanesi" /> </p>
 
+- 💬 My native language is Spanish but I also know English
+
 - 🌱 I’m currently learning **Kotlin and Java for Android Development**
 
 - 📫 How to reach me **martinalbanesi89@gmail.com**
