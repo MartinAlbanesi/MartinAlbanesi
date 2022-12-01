@@ -1,5 +1,5 @@
-<h1 align="center"> 👨‍💻 Hey! I am Martín Albanesi 👨‍💻 </h1>
-<h3 align="center">A developer eager to learn and grow!</h3>
+<h1 align="center">Hey! I'm Martín Albanesi</h1>
+<h3 align="center">👨‍💻 A developer eager to learn and grow! 👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinalbanesi&label=Profile%20views&color=0e75b6&style=flat" alt="martinalbanesi" /> </p>
 
