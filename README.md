@@ -19,8 +19,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/martín-albanesi-12433820a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin albanesi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19537023/martin-albanesi?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="martin albanesi" height="30" width="40" /></a>
-<a href="https://www.instagram.com/albanesi_martin/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="albanesi_martin" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
