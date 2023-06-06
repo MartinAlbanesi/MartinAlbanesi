@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinalbanesi&label=Profile%20views&color=0e75b6&style=flat" alt="martinalbanesi" /> </p>
 
-- 💬 My native language is Spanish but I also studied English
+- 💬 My native language is Spanish but I also studied English. And Portuguese soon...
 
-- 🌱 I’m currently learning **Kotlin and Java for Android Development**
+- 🌱 I’m currently learning **UML diagrams and Python**
 
-- 🎯 I’m currently focusing on **training myself and searching for my dream job**
+- 🎯 I’m currently focusing on **finishing my degree and looking for a job**
 
 - 📫 How to reach me **martinalbanesi89@gmail.com**
 
