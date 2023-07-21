@@ -5,7 +5,7 @@
 
 - 💬 My native language is Spanish but I also studied English. And Portuguese soon...
 
-- 🌱 I’m currently learning **UML diagrams and Python**
+- 🌱 I’m currently learning **Python, HTML and CSS**
 
 - 🎯 I’m currently focusing on **finishing my degree and looking for a job**
 
