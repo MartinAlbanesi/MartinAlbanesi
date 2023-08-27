@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Android Native Development, Jetpack Compose and Scrum Methodology**
 
-- 🎯 I’m currently focusing on **developing a good application for a university subject**
+- 🎯 I’m currently focusing on **developing a good application for university**
 
 - 📫 How to reach me **martinalbanesi89@gmail.com**
 
