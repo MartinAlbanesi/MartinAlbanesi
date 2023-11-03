@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Martín Albanesi from Argentina, Buenos Aires<br><br>- 💬 My native language is Spanish but I also studied advanced English and basic Portuguese.<br>- 🎯 I’m currently focusing on developing great proyects for my career<br>- 📚 I’m currently learning Android Native Development, Jetpack Compose and Scrum Methodology<br>- ⚡ In my free time I play videogames, watch anime, listen to music.<br>- 📄 Know about my experience</p>
+<p align="left">I'm Martín Albanesi from Argentina, Buenos Aires<br><br>- 💬 My native language is Spanish but I also studied advanced English and basic Portuguese.<br>- 🎯 I’m currently focusing on developing great proyects for my career<br>- 📚 I’m currently learning Android Native Development, Jetpack Compose and Scrum Methodology<br>- ⚡ In my free time I play videogames, watch anime, listen to music.<br>- 📄 Know about my experience [<a href="https://drive.google.com/file/d/1-mXiD8eM9_hwcpNrwyepwYkcHRggCM-F/view?usp=sharing" target="_blank">English</a> | <a href="https://drive.google.com/file/d/1QaGM1w4svN5FiocqwgVUZ7v5sdWl2pPr/view?usp=sharing" target="_blank">Spanish</a>]</p>
 
 ###
 
