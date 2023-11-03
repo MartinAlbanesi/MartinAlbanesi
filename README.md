@@ -119,9 +119,3 @@
   <img src="https://spotify-readme.vercel.app/api?theme=dark&spin=true&scan=false&rainbow=true" alt="Widget with the current Spotify song"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/MartinAlbanesi/MartinAlbanesi/output/snake.svg" alt="Snake animation" />
-
-###
-
