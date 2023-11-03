@@ -2,6 +2,8 @@
 
 ###
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Android+Developer;I+Love+Kotlin+and+Java)](https://git.io/typing-svg)
+
 <h3 align="center">🤖 Android Developer 📱</h3>
 
 ###
