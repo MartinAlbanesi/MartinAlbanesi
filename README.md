@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Martín</h1>
 
 ###
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Android+Developer;I+Love+Kotlin+and+Java)](https://git.io/typing-svg)
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Android+Developer;I+Love+Kotlin+and+Java)](https://git.io/typing-svg)
+</div>
 
 <h3 align="center">🤖 Android Developer 📱</h3>
 
