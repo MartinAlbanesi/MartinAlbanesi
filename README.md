@@ -2,6 +2,7 @@
 
 ###
 <center>
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=2000&color=44D5FF&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Android+Developer;I+Love+Kotlin+and+Java;Looking+for+a+Job)](https://git.io/typing-svg)
 </center>
   
