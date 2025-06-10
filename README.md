@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Martín</h1>
+<h1 align="center">Hola, soy MarAlbaDev</h1>
 
 ###
 
@@ -10,15 +10,15 @@
 
 ###
 
-<h3 align="left">🧑‍💻  About Me</h3>
+<h3 align="left">🧑‍💻  Sobre mí</h3>
 
 ###
 
-<p align="left">I'm Martín Albanesi from Argentina, Buenos Aires<br><br>- 💬 My native language is Spanish but I also studied advanced English and basic Portuguese.<br>- 🎯 I’m currently focusing on developing great proyects for my career<br>- 📚 I’m currently learning Android Native Development, Jetpack Compose and Scrum Methodology<br>- ⚡ In my free time I play videogames, watch anime, listen to music.<br>- 📄 Know about my experience [<a href="https://drive.google.com/file/d/1pd2dxINeJIVG_vaDsZdeqvTMBZ6L_ckC/view?usp=drive_link" target="_blank">English</a> | <a href="https://drive.google.com/file/d/1xw-FGkch_7AMY-KsDc-mKgYnXatg5R0E/view?usp=drive_link" target="_blank">Spanish</a>]</p>
+<p align="left">Me llamo Martín y soy de Buenos Aires, Argentina.<br><br>- 💬 Mi lenguaje nativo es el español pero estudié inglés a nivel profesional, y además un poco de portugués.<br>- 🎯 Actualmente me encuentro enfocado en encontrar un trabajo que me ayude a crecer profesionalmente.<br>- 📚 Soy Técnico Desarrollador en Aplicaciones Móviles, pero actualmente estoy aprendiendo el stack de Java + Spring Boot con React para desarrollo Full-Stack.<br>- ⚡ En mi tiempo libre juego videojuegos, veo videos en internet y aprendo sobre temas interesantes.<br>- 📄 Conocé más sobre mi experiencia <a href="https://drive.google.com/file/d/1Fesu3oPcBXVkRA3bSl256sJXw06r2Yp4/view?usp=sharing" target="_blank">Martín Albanesi CV</a></p>
 
 ###
 
-<h3 align="left">🤝 Connect with me</h3>
+<h3 align="left">🤝 Contactate conmigo</h3>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Lenguajes y herramientas</h3>
 
 ###
 
@@ -100,7 +100,7 @@
 
 ###
 
-<h3 align="left">🔥   Coding Stats</h3>
+<h3 align="left">🔥   Estadísticas de código</h3>
 
 ###
 
@@ -115,7 +115,7 @@
 
 ###
 
-<h3 align="center">🎧 Vibing to 🎧</h3>
+<h3 align="center">🎧 Escuchando 🎧</h3>
 
 ###
 
