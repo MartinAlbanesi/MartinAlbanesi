@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Me llamo Martín y soy de Buenos Aires, Argentina.<br><br>- 💬 Mi lenguaje nativo es el español pero estudié inglés a nivel profesional, y además un poco de portugués.<br>- 🎯 Actualmente me encuentro enfocado en encontrar un trabajo que me ayude a crecer profesionalmente.<br>- 📚 Soy Técnico Desarrollador en Aplicaciones Móviles, pero actualmente estoy aprendiendo el stack de Java + Spring Boot con React para desarrollo Full-Stack.<br>- ⚡ En mi tiempo libre juego videojuegos, veo videos en internet y aprendo sobre temas interesantes.<br>- 📄 Conocé más sobre mi experiencia <a href="https://drive.google.com/file/d/1Fesu3oPcBXVkRA3bSl256sJXw06r2Yp4/view?usp=sharing" target="_blank">Martín Albanesi CV</a></p>
+<p align="left">Me llamo Martín y soy de Buenos Aires, Argentina.<br><br>- 💬 Mi lenguaje nativo es el español pero estudié inglés a nivel profesional.<br>- 🎯 Actualmente estoy trabajando como desarrollador Web Back-end y Mobile. <br>- 📚 Soy Técnico Desarrollador en Aplicaciones Móviles, pero actualmente estoy aprendiendo PHP + Laravel, Flutter y React Native.<br>- ⚡ En mi tiempo libre juego videojuegos, veo videos en internet y aprendo sobre temas interesantes.<br>- 📄 Conocé más sobre mi experiencia <a href="https://drive.google.com/file/d/1Fesu3oPcBXVkRA3bSl256sJXw06r2Yp4/view?usp=sharing" target="_blank">Martín Albanesi CV</a></p>
 
 ###
 
